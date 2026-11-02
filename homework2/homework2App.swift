@@ -1,8 +1,7 @@
+// Homework2
+// Eye Opener Coffee
 //
-//  homework2App.swift
-//  homework2
-//
-//  Created by Joel Coakes on 11/1/26.
+// Joel Coakes
 //
 
 import SwiftUI
